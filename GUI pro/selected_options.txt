@@ -1,0 +1,2 @@
+Brand: Adidas, Size: M, Color: White
+Brand: Gap, Size: L, Color: Black
